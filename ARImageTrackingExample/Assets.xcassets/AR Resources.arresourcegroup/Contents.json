@@ -1,0 +1,44 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Symbol_A.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_B.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_C.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_D.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_E.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_F.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_G.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_H.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_I.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_J.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_K.arreferenceimage"
+    },
+    {
+      "filename" : "Symbol_L.arreferenceimage"
+    }
+  ]
+}
